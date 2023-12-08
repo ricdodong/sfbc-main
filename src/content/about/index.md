@@ -6,32 +6,28 @@ buttons:
     link: "https://www.google.com/maps/place/Sibagat+Fundamental+Baptist+Church/@8.8247156,125.6913641,17z/data=!3m1!4b1!4m6!3m5!1s0x3301ef432a36a2bd:0x7d4666f782348fb9!8m2!3d8.8247156!4d125.6913641!16s%2Fg%2F11tc75f1pc?authuser=0&hl=en&entry=ttu"
     enable: true
   - label: Learn More
-    link: "#gallery"
+    link: "#photo-gallery"
     outline: true
     enable: true
 
 # counter
 counter:
-  - name: "Customers"
-    number: 25
-    messurment: M
+  - name: "Church Planted"
+    number: 3
+    messurment: 
     color: "#A3A1FB"
-  - name: "Customers"
-    number: 440
-    messurment: M
+  - name: "Church Ministry"
+    number: 4
+    messurment: 
     color: "#5EE2A0"
-  - name: "Customers"
-    number: 50
-    messurment: K
+  - name: "Church Members"
+    number: 56
+    messurment: 
     color: "#FE6019"
-  - name: "Customers"
-    number: 20
-    messurment: K
-    color: "#FEC163"
     
 # Gallery
 gallery:
-  title: We started with one single goal Empower entrepreneurs
+  title: Sibagat Fundamental Baptist Church
   images:
     - "/images/about/gallery-img-1.png"
     - "/images/about/gallery-img-3.png"
