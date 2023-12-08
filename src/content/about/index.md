@@ -37,14 +37,14 @@ gallery:
 features:
   title: The six core work <br /> drive everything do
   button:
-    label: Download The Theme
-    link: "https://themefisher.com/astro-themes/pinwheel-astro"
+    label: Contact Us
+    link: "/contact"
     enable: true
   features_list:
     - title: Soul-winning
       content: Romans 10:17, So then faith cometh by hearing, and hearing by the word of God.
-    - title: Empowerement
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
+    - title: Worship Service
+      content: John 4:23-24 (NIV), "Yet a time is coming and has now come when the true worshipers will worship the Father in the Spirit and in truth, for they are the kind of worshipers the Father seeks. God is spirit, and his worshipers must worship in the Spirit and in truth."
     - title: Excellence
       content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
     - title: Innovation
