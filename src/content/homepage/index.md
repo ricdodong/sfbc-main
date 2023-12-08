@@ -4,8 +4,8 @@ banner:
   content: "You are currently viewing our website. As a warm greeting, let us say thank you for visiting. We have some articles available here that maybe you can learn or remember about the Word of God."
   image: /images/banner-img.png
   button:
-    label: Contact
-    link: "/contact"
+    label: Sermons
+    link: "/sermons"
     enable: true
 
 ##key features
