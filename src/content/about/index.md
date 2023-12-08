@@ -6,7 +6,7 @@ buttons:
     link: "https://www.google.com/maps/place/Sibagat+Fundamental+Baptist+Church/@8.8247156,125.6913641,17z/data=!3m1!4b1!4m6!3m5!1s0x3301ef432a36a2bd:0x7d4666f782348fb9!8m2!3d8.8247156!4d125.6913641!16s%2Fg%2F11tc75f1pc?authuser=0&hl=en&entry=ttu"
     enable: true
   - label: Learn More
-    link: "#photo-gallery"
+    link: "#countr"
     outline: true
     enable: true
 
