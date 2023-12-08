@@ -63,19 +63,19 @@
 
   &.info {
     .notice-head {
-      @apply bg-[#ffc392];
+      @apply bg-[#acff92];
     }
     .notice-body {
-      @apply bg-[#f0b37e]/25;
+      @apply bg-[#8cff9b]/25;
     }
   }
 
   &.warning {
     .notice-head {
-      @apply bg-[#ff918c];
+      @apply bg-[#8cffa5];
     }
     .notice-body {
-      @apply bg-[#ff918c]/25;
+      @apply bg-[#8cff9b]/25;
     }
   }
 }
@@ -173,13 +173,13 @@ select:invalid {
     @apply bg-[#973cff];
   }
   &.depreciate {
-    @apply bg-[#ff3158];
+    @apply bg-[#2cc734];
   }
   &.changed {
     @apply bg-[#3a9cff];
   }
   &.security {
-    @apply bg-[#9c275f];
+    @apply bg-[#195212];
   }
 }
 // youtube video
@@ -243,7 +243,7 @@ select:invalid {
     @apply h-6 w-6;
 
     svg {
-      @apply text-[#FA7398];
+      @apply text-[#298f37];
     }
   }
 }
