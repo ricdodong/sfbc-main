@@ -1,5 +1,5 @@
 ---
-banner
+banner:
   title: "Welcome to Sibagat Fundamental Baptist Church"
   content: "You are currently viewing our website. As a warm greeting, let us say thank you for visiting. We have some articles available here that maybe you can learn or remember about the Word of God."
   image: /images/banner-img.png
