@@ -1,11 +1,11 @@
 ---
-banner:
-  title: "Scale design & dev operations with Avocode Enterprise"
-  content: "A fully integrated suite of authentication & authoriz products, Stytch’s platform removes the headache of."
+banner
+  title: "Welcome to Sibagat Fundamental Baptist Church"
+  content: "You are currently viewing our website. As a warm greeting, let us say thank you for visiting. We have some articles available here that maybe you can learn or remember about the Word of God."
   image: /images/banner-img.png
   button:
-    label: Download The Theme
-    link: "https://themefisher.com/astro-themes/pinwheel-astro"
+    label: Contact
+    link: "/contact"
     enable: true
 
 ##key features
