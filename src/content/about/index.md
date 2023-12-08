@@ -41,8 +41,8 @@ features:
     link: "https://themefisher.com/astro-themes/pinwheel-astro"
     enable: true
   features_list:
-    - title: Accessibility
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
+    - title: Soul-winning
+      content: Romans 10:17, So then faith cometh by hearing, and hearing by the word of God.
     - title: Empowerement
       content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
     - title: Excellence
