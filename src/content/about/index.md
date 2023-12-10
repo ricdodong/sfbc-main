@@ -51,8 +51,8 @@ features:
       content: Mark 13:10 ESV, "And the gospel must first be proclaimed to all nations." / 2 Timothy 4:2 ESV, "Preach the word; be ready in season and out of season; reprove, rebuke, and exhort, with complete patience and teaching."
     - title: Prayer Meeting
       content: Matthew 18:20 NLT, "For where two or three gather together as my followers, I am there among them." Ephesians 3:12 NLT, "Because of Christ and our faith in him, we can now come boldly and confidently into God's presence."
-    - title: Innovation
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
+    - title: Thanks Giving
+      content: 1 Thessalonians 5:16-18, "Rejoice always, pray continually, give thanks in all circumstances; for this is God’s will for you in Christ Jesus." / 1 Chronicles  6:34, "Give thanks to the Lord, for he is good; his love endures forever."
     
 ## members
 members:
