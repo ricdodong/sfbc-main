@@ -59,9 +59,9 @@ members:
   title: This is who we are
   description: Donec sollicitudin molestie malesda. Donec sollitudin mol estie ultricies ligula sed magna dictum
   member_list:
-    - name: Eleanor Pena
-      field: Co-founder & COO
-      image: "/images/users/user-1.png"
+    - name: Pastor Elven B. Lumalad
+      field: Host Pastor SFBC
+      image: "/images/users/pastor.jpg"
     - name: Bukiakta Bansalo
       field: Product Manager
       image: "/images/users/user-2.png"
