@@ -1,7 +1,6 @@
 import { useState } from "react";
 import { Play } from "react-feather";
 import YouTube from "react-youtube";
-
 const VideoComponent = ({
   height,
   width,
@@ -23,6 +22,7 @@ const VideoComponent = ({
     <>
       {!play ? (
         <div className="relative text-center">
+        <img src="/images/features/gribbonright.png" className="ricVideoRibbon" />
           <button className="video-play-btn" onClick={() => setPlay(true)}>
             <Play />
           </button>
